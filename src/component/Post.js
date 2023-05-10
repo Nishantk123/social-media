@@ -6,7 +6,7 @@ import CommentIcon from '@mui/icons-material/Comment';
 import ReplyIcon from '@mui/icons-material/Reply';
 const Post = ({image}) =>{
     return(
-        <div>
+        <div className="mb-3">
         <div class="post">
           <div class="tb">
             <a href="#" class="td p-p-pic">
